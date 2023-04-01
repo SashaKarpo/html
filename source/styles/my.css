@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
 body {
-    background: linear-gradient(90deg, #0C28CE 0%, #000000 100%);
+    font-family: Michroma, serif;
+    background: linear-gradient(90deg, #091e98 0%, #000000 100%);
 }
 
 .nav-link { 
@@ -16,4 +19,26 @@ body {
 
 .navbar-toggler {
     background-color: rgb(108, 106, 106);
+}
+
+.sidebar {
+    color: azure;
+    background: linear-gradient(270deg, #b60d57 0%, #000000 100%);
+}
+
+.card {
+    background: linear-gradient(270deg, #cecece 0%, #777777 100%);
+    color: #000000;
+}
+
+.card a {
+    text-decoration: none;
+    color: #000000;
+    
+}
+
+.col-lg-6.col-md-6 {
+    color: azure;
+    margin: auto auto;
+
 }
