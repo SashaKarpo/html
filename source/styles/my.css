@@ -1,0 +1,15 @@
+.nav-link { 
+    color: azure;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(200, 20, 20);
+}
+
+.navbar-brand img {
+    width: 35px;
+}
+
+.navbar-toggler {
+    background-color: rgb(108, 106, 106);
+}
